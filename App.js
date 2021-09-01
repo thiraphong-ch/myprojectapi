@@ -92,6 +92,7 @@ const App = () => {
                 <Route path="/cart">
                   <CartPage />
                 </Route>
+                <p>test</p>
 
                 <PrivateRoute path="/member">
                   <MemberPage />
